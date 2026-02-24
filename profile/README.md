@@ -6,7 +6,7 @@ Thanks to our development team for making this project possible!
 | [sealsrock12](https://github.com/sealsrock12)   | Architecture Lead     |
 | [zleyyij](https://github.com/zleyyij)           | Quality Lead          |
 | [JimmahDean](https://github.com/JimmahDean)     | Senior Engineer       |
-| [XavierNCline](https://github.com/XavierNCline) | Senior Engineer       |
+| [XarahNCline](https://github.com/XarahNCline) | Senior Engineer       |
 | [K97i](https://github.com/K97i)                 | UX Engineer           |
 | [24online24](https://github.com/24online24)     | Privacy Engineer      |
 
